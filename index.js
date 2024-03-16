@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching **.gg/creator's lounge**"];
+const statusMessages = ["Watching .gg/creator's lounge"];
 
 
 let currentIndex = 0;
